@@ -10,17 +10,16 @@ The main purpose of this project is to build a back-end to create, read, update,
 
 <h2>How to Run</h2>
 
-This web server is running in:
-- Host: localhost
-- Port: 5000
-
 To run the web-server
-
 ```
 npm run start
 ```
 
-<h2>API Endpoints</h2>
+The web server will running in:
+- Host: localhost
+- Port: 5000
+
+<h2>API Endpoints and Request Methods</h2>
 
 | Method   | URL                                      | Description                              |
 | -------- | ---------------------------------------- | ---------------------------------------- |
